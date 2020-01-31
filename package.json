@@ -1,0 +1,11 @@
+{
+  "name": "tddnodes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MauroTChaves/tddnodes.git",
+  "author": "Mauro Teixeira Chaves <mauro.cahves@pdcase.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
